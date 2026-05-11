@@ -98,7 +98,8 @@ A curated list of AI-powered tools and platforms for all your image creation, ed
 - [Cleanup.pictures](https://cleanup.pictures/) – Erase unwanted elements.  
 - [Slazzer](https://www.slazzer.com/) – API & web BG removal.  
 - [Clipping Magic](https://clippingmagic.com/) – Fine‑tune cutouts with AI.  
-- [Pixlr BG](https://pixlr.com/remove-background/) – Browser‑based BG eraser.
+- [Pixlr BG](https://pixlr.com/remove-background/) – Browser‑based BG eraser.  
+- [TinyTools BG Remover](https://tinytools-smoky.vercel.app/) – Open-source, fully client-side AI background remover (ONNX/WASM) — no upload, no signup.
 
 ## 🎨 [AI Manga & Comic](https://submitaitools.org/category/best-ai-manga-comic-tools)
 - [Waifu Labs](https://waifulabs.com/) – AI‑generated anime characters.  
