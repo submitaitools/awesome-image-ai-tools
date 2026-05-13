@@ -148,6 +148,7 @@ A curated list of AI-powered tools and platforms for all your image creation, ed
 - [Selfie2Anime](https://selfie2anime.com/) – Turn selfies into anime.  
 - [Lensa AI](https://lensa.ai/) – Magic portrait enhancements.  
 - [Remini](https://www.remini.ai/) – Super‑resolution selfies.
+- [Aurcue](https://www.aurcue.com/) – Turns a personal photo into color, outfit, hairstyle, glasses, and daily style guidance.
 
 ## 🧜‍♀️ [AI Tattoo Generator](https://submitaitools.org/category/best-ai-tattoo-generator-tools)
 - [Inkhunter](https://inkhunter.com/) – Preview tattoos with AR & AI.  
