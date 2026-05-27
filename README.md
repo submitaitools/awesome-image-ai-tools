@@ -78,6 +78,7 @@ A curated list of AI-powered tools and platforms for all your image creation, ed
 - [Hotpot.ai](https://hotpot.ai/restoration) – Auto‑restore vintage photos.  
 - [PhotoRestore.io](https://photorestore.io/) – Cloud‑based AI restoration.  
 - [PicsFast](https://picsfast.com/ai-photo-restoration/) – One‑click photo revive.
+- [PhotoRestore.ai](https://photorestore.ai) – AI-powered repair of scratches, fading, tears, and B&W colorization for old photos.
 
 ## 🧑‍🦰 [AI Profile Picture Generator](https://submitaitools.org/category/best-ai-profile-picture-generator-tools)
 - [PFPMaker](https://pfpmaker.com/) – Professional AI headshots.  
