@@ -21,7 +21,8 @@ A curated list of AI-powered tools and platforms for all your image creation, ed
 - [Midjourney](https://midjourney.com/) – High‑quality AI art from text.  
 - [Stable Diffusion](https://stability.ai/) – Open‑source image synthesis from prompts.  
 - [Craiyon](https://www.craiyon.com/) – Free “DALL·E mini” for fun sketches.  
-- [DreamStudio](https://beta.dreamstudio.ai/) – Official Stable Diffusion interface.
+- [DreamStudio](https://beta.dreamstudio.ai/) – Official Stable Diffusion interface.  
+- [Seedream AI Studio](https://seedream4.video/) – Multi-model AI image generation platform powered by ByteDance Seedream 5.0/4.5/4.0, ranked #1 in AI Image Arena. Supports up to 10 reference images and one-click video generation via Kling 2.1. Free tier available.
 
 ## 🖥️ [AI Banner Generator](https://submitaitools.org/category/best-ai-banner-generator-tools)
 - [Canva AI](https://www.canva.com/create/banners/) – Smart banner layouts & suggestions.  
