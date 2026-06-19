@@ -71,6 +71,7 @@ A curated list of AI-powered tools and platforms for all your image creation, ed
 - [BeFunky](https://www.befunky.com/) – AI tools for quick edits.  
 - [Photopea](https://www.photopea.com/) – Web‑based PS alternative with AI.  
 - [Polarr](https://www.polarr.co/) – AI filters & batch processing.
+- [ClearCrowds](https://www.clearcrowds.com/) – AI photo cleanup editor for removing crowds, clutter, glare, text, and unwanted objects.
 
 ## 🧹 [AI Photo Restoration](https://submitaitools.org/category/best-ai-photo-restoration-tools)
 - [Remini](https://www.remini.ai/) – Restore old photos with deep learning.  
