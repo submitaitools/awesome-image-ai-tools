@@ -4,6 +4,7 @@ A curated list of AI-powered tools and platforms for all your image creation, ed
 
 ## 📸 [AI Photography](https://submitaitools.org/category/best-ai-photography-tools)
 - [Leonardo.Ai](https://leonardo.ai/) – Generate and fine‑tune lifelike AI photos.  
+- [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [Claid.ai](https://claid.ai/) – AI‑driven product photography enhancements.  
 - [DeepAI Photo Generator](https://deepai.org/machine-learning-model/text2img) – Turn prompts into realistic photos.  
 - [NightCafe Studio](https://creator.nightcafe.studio/) – AI art & photo creation suite.  
