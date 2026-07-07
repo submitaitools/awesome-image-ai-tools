@@ -18,6 +18,7 @@ A curated list of AI-powered tools and platforms for all your image creation, ed
 
 ## 📝 [AI Text to Image](https://submitaitools.org/category/best-ai-text-to-image-tools)
 - [DALL·E 2](https://openai.com/dall-e-2) – State‑of‑the‑art text‑to‑image generation.  
+- [RunAPI GPT Image SDK](https://github.com/runapi-ai/gpt-image-sdk) – Developer SDK for text-to-image and image editing workflows.
 - [Midjourney](https://midjourney.com/) – High‑quality AI art from text.  
 - [Stable Diffusion](https://stability.ai/) – Open‑source image synthesis from prompts.  
 - [Craiyon](https://www.craiyon.com/) – Free “DALL·E mini” for fun sketches.  
