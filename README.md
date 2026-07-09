@@ -225,3 +225,4 @@ A curated list of AI-powered tools and platforms for all your image creation, ed
 - [Epson ScanSmart](https://epson.com/) – Smart desktop scanning.  
 - [CamScanner](https://www.camscanner.com/) – OCR & edge detection.  
 - [VueScan](https://www.hamrick.com/) – Advanced AI scanning software.
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
