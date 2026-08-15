@@ -22,6 +22,7 @@ A curated list of AI-powered tools and platforms for all your image creation, ed
 - [Stable Diffusion](https://stability.ai/) – Open‑source image synthesis from prompts.  
 - [Craiyon](https://www.craiyon.com/) – Free “DALL·E mini” for fun sketches.  
 - [DreamStudio](https://beta.dreamstudio.ai/) – Official Stable Diffusion interface.
+- [Eimu](https://eimu.art) – Online GPT Image 2 & Nano Banana Pro generator, no API key or relay station needed.
 
 ## 🖥️ [AI Banner Generator](https://submitaitools.org/category/best-ai-banner-generator-tools)
 - [Canva AI](https://www.canva.com/create/banners/) – Smart banner layouts & suggestions.  
@@ -113,6 +114,7 @@ A curated list of AI-powered tools and platforms for all your image creation, ed
 - [Stable Diffusion](https://stability.ai/) – Open model for images.  
 - [Craiyon](https://www.craiyon.com/) – Fun free image sketches.  
 - [DreamStudio](https://beta.dreamstudio.ai/) – Official Stable Diffusion UI.
+- [Eimu](https://eimu.art) – Online GPT Image 2 - [DreamStudio](https://beta.dreamstudio.ai/) – Official Stable Diffusion UI. Nano Banana Pro generator, no API key or relay station needed.
 
 ## ✏️ [AI Illustration Generator](https://submitaitools.org/category/best-ai-illustration-generator-tools)
 - [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html) – AI illustrations & vectors.  
