@@ -70,6 +70,7 @@ A curated list of AI-powered tools and platforms for all your image creation, ed
 - [Pixlr X](https://pixlr.com/x/) – Browser‑based AI editing.  
 - [BeFunky](https://www.befunky.com/) – AI tools for quick edits.  
 - [Photopea](https://www.photopea.com/) – Web‑based PS alternative with AI.  
+- [Orkas](https://orkas.ai/agents/image-studio/?source=gh_imagecat) – ImageStudio creates and edits images inside an open-source, local-first desktop AI workforce coordinated by a Commander.
 - [Polarr](https://www.polarr.co/) – AI filters & batch processing.
 
 ## 🧹 [AI Photo Restoration](https://submitaitools.org/category/best-ai-photo-restoration-tools)
