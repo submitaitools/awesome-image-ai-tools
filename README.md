@@ -14,7 +14,8 @@ A curated list of AI-powered tools and platforms for all your image creation, ed
 - [Fotor](https://www.fotor.com/features/photo-enhancer/) – One‑click AI sharpening & denoise.  
 - [Deep-Image.ai](https://deep-image.ai/) – Upscale and beautify photos.  
 - [Photolemur](https://photolemur.com/) – Fully automatic photo enhancement.  
-- [Luminar AI](https://skylum.com/luminar-ai) – AI templates for next‑level edits.
+- [Luminar AI](https://skylum.com/luminar-ai) – AI templates for next‑level edits.  
+- [UpRes](https://upres.ai/) – Multi‑model AI image & video upscaling up to 8K with API, CLI, and MCP.
 
 ## 📝 [AI Text to Image](https://submitaitools.org/category/best-ai-text-to-image-tools)
 - [DALL·E 2](https://openai.com/dall-e-2) – State‑of‑the‑art text‑to‑image generation.  
