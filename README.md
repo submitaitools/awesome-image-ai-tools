@@ -22,6 +22,7 @@ A curated list of AI-powered tools and platforms for all your image creation, ed
 - [Stable Diffusion](https://stability.ai/) – Open‑source image synthesis from prompts.  
 - [Craiyon](https://www.craiyon.com/) – Free “DALL·E mini” for fun sketches.  
 - [DreamStudio](https://beta.dreamstudio.ai/) – Official Stable Diffusion interface.
+- [PromptImage](https://promptimage.cloud/) – Free AI image gallery + image/video studio (freemium signup credits, no card).
 
 ## 🖥️ [AI Banner Generator](https://submitaitools.org/category/best-ai-banner-generator-tools)
 - [Canva AI](https://www.canva.com/create/banners/) – Smart banner layouts & suggestions.  
