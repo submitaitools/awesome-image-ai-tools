@@ -19,6 +19,7 @@ A curated list of AI-powered tools and platforms for all your image creation, ed
 ## 📝 [AI Text to Image](https://submitaitools.org/category/best-ai-text-to-image-tools)
 - [DALL·E 2](https://openai.com/dall-e-2) – State‑of‑the‑art text‑to‑image generation.  
 - [Midjourney](https://midjourney.com/) – High‑quality AI art from text.  
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
 - [Stable Diffusion](https://stability.ai/) – Open‑source image synthesis from prompts.  
 - [Craiyon](https://www.craiyon.com/) – Free “DALL·E mini” for fun sketches.  
 - [DreamStudio](https://beta.dreamstudio.ai/) – Official Stable Diffusion interface.
