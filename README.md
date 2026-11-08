@@ -24,6 +24,7 @@ A curated list of AI-powered tools and platforms for all your image creation, ed
 - [DreamStudio](https://beta.dreamstudio.ai/) – Official Stable Diffusion interface.
 
 ## 🖥️ [AI Banner Generator](https://submitaitools.org/category/best-ai-banner-generator-tools)
+- [AdVariq](https://advariq.com/) – AI ad creative & promotional banner visual generator.
 - [Canva AI](https://www.canva.com/create/banners/) – Smart banner layouts & suggestions.  
 - [Adobe Express](https://www.adobe.com/express/create/banner) – AI‑powered banner design.  
 - [Visme](https://www.visme.co/templates/banners/) – Generate banners with AI text & images.  
@@ -185,6 +186,7 @@ A curated list of AI-powered tools and platforms for all your image creation, ed
 - [Midjourney](https://midjourney.com/) – Stunning AI‑generated vistas.
 
 ## 📜 [AI Poster Generator](https://submitaitools.org/category/best-ai-poster-generator-tools)
+- [AdVariq](https://advariq.com/) – AI product poster & promotional creative designer.
 - [PosterMyWall](https://www.postermywall.com/) – AI‑guided poster layouts.  
 - [Adobe Express Posters](https://www.adobe.com/express/create/poster) – Smart poster design.  
 - [Crello](https://crello.com/templates/posters/) – AI templates for posters.  
